@@ -22,5 +22,5 @@ var result = Object.assign( { age: 27 }, { name: "Myself"})
 
 ###### Can copy multiple times 
 ```js
-var result = Object.assign( { age: 27 }, { name: "Myself"}, { color: "Red", age:15}, { food: "Wings" }) 
+var result = Object.assign( {}, user, fbProfile, linkedInProfile, googleProfile) 
 ```
