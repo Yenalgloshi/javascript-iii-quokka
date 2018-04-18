@@ -23,15 +23,8 @@ var add = (x, y) => {
 var sum = add(3, 8)
 sum;
 
+
 //multi line Arrow functions 
 // - Use curly braces
 // - Still need a return statement
 // - Can do many lines of code
-
-
-// noob tip:
-// arrow functions should not be used as a top level function
-// Okay to use arrow functions in:
-// - callbacks
-// - classes
-// - objects

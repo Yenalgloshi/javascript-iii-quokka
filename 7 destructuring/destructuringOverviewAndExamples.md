@@ -5,7 +5,7 @@
 #### move the property name(s) from the dot notation on the right into the curly braces on the left
 
 ```js
-var name = employee.first_name;
+var first_name = employee.first_name;
 //becomes
 var {first_name} = employee
 ```
